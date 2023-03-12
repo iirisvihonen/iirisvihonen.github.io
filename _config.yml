@@ -1,13 +1,13 @@
-title:              Oskarin Projektit
-email:              oskari.vihonen@gmail.com
-description:        Oskarin projektisivut!
-author:             Oskari Vihonen
+title:              Iiriksen Projektit
+email:              iiris.vihonen@gmail.com
+description:        Iiriksen projektisivut!
+author:             Iiris Vihonen
 baseurl:            "/"
 url:                ""
 
 # Social Profiles
 twitter_username:
-github_username:    oskarivihonen
+github_username:    iirisvihonen
 facebook_username:  
 linkedin_username:
 
